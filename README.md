@@ -45,7 +45,7 @@ When a JotForm link is present in the repository, it indicates that we are activ
 | **Apply** | [Submit Your Analysis](https://form.jotform.com/250847594571266) |
 | | |
 
-> **Note:** We are currently not accepting new applications. When we are accepting applications, this section will be updated with a green status indicator (🟢) and an active application link.
+> **Note:** When we are accepting applications, this section will be updated with a green status indicator (🟢 or 🔴) and an active application link.
 
 ### Requirements
 We are looking for talented individuals who can:
