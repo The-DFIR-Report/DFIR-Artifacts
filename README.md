@@ -35,14 +35,14 @@ When a JotForm link is present in the repository, it indicates that we are activ
 
 ---
 
-### Current Open Position
+### Current Open Position 🟢
 
 | | |
 |:---:|:---|
 | **Case** | Simulated-Case-1 |
 | **Position** | Volunteer Analyst with Opportunities for Ad Hoc Paid Work |
-| **Status** | 🔴 Currently Closed |
-| **Apply** | [Submit Your Analysis](https://form.jotform.com/your-form-id) |
+| **Status** | 🟢 Currently Open |
+| **Apply** | [Submit Your Analysis](https://form.jotform.com/250847594571266) |
 | | |
 
 > **Note:** We are currently not accepting new applications. When we are accepting applications, this section will be updated with a green status indicator (🟢) and an active application link.
