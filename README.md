@@ -13,23 +13,6 @@ This repository serves as a platform for sharing simulated intrusion artifacts u
 - Give back to the community by sharing knowledge and practical examples
 - Enable self-paced learning and skill development in a controlled environment
 
-## Repository Structure
-```
-Intrusions/
-├── Simulated-Case-1/
-├── Simulated-Case-2/
-└── ...
-```
-
-Each case directory contains parsed artifacts in zipped format, ready for analysis.
-
-## Accessing Artifacts
-For analysts who wish to parse different artifacts or work with the raw data themselves, we provide access to the complete artifact sets through our MEGA repository.
-
-| Simulated Case | MEGA Link |
-|----------------|-----------|
-| Simulated-Case-1 | [Download](https://mega.nz/xxx) |
-
 ## Application Process
 When a JotForm link is present in the repository, it indicates that we are actively seeking analyst candidates for a specific case.
 
@@ -43,7 +26,8 @@ When a JotForm link is present in the repository, it indicates that we are activ
 | **Position** | Volunteer Analyst with Opportunities for Ad Hoc Paid Work |
 | **Status** | 🟢 Currently Open |
 | **Apply** | [Submit Your Analysis](https://form.jotform.com/250847594571266) |
-| | |
+| **Deadline** | Submissions close April 20, 2025 at 23:59 UTC |
+
 
 > **Note:** When we are accepting applications, this section will be updated with a green status indicator (🟢) and an active application link.
 
@@ -58,6 +42,46 @@ We are looking for talented individuals who can:
 
 ---
 
+## Repository Organization
+The artifacts for each simulated intrusion case are distributed through GitHub Releases. Each release contains:
+- A set of parsed logs and artifacts ready for analysis
+- Detailed release notes describing the included files
+- Version information and any relevant updates
+
+You can find all available cases in the [Releases](../../releases/tag/case-1) section of this repository.
+
+## Accessing Artifacts
+The repository provides two ways to access the artifacts:
+
+1. **Parsed Documents (Recommended Start)**: Pre-processed artifacts are available in the [GitHub Releases](../../releases) section of this repository. These include:
+   - Parsed Kape sandbox analysis logs
+   - Kape system logs in CSV format
+   - Windows Event Logs from all affected hosts in JSON format (exported from Elastic and ready for re-import)
+
+2. **Complete Dataset**: For analysts who wish to work with all available data, including raw logs and additional parsed artifacts, we provide access through our MEGA repository. This includes everything in the parsed documents plus additional raw and parsed logs.
+
+| Simulated Case | Complete Dataset (MEGA) |
+|----------------|-----------|
+| Simulated-Case-1 | [Download](https://mega.nz/file/IJhl0QgD#uQwoeFjIiLHwL16AS_fxPCX3XZKN8oTso6qiH_K307M) |
+
+### Available Artifacts
+
+| Category | GitHub Release Contains | Complete Dataset (MEGA) Contains |
+|----------|-------------|-------------|
+| 🗂️ Logs | • Parsed Kape sandbox analysis logs<br>• Kape system logs (CSV format)<br>• Windows Event Logs (Elastic export in JSON format) from all affected hosts - ready for Elastic import | All GitHub Release logs plus:<br>• Raw system logs<br>• Additional parsed logs<br>• Complete log datasets |
+| 💾 Memory | - | Memory dumps from affected systems |
+| 📁 Files | - | Relevant malicious files |
+| 🌐 Network | - | Network captures and sensor data |
+
+> **Elastic Import Note:** The Windows Event Logs in the GitHub Release are provided in JSON format as exported directly from our Elastic instance. This makes it easy to import them back into your own Elastic deployment for analysis using the same tools and visualizations you're familiar with.
+
+| ⚠️ Password for All Compressed Files |
+|:-----------------------------------:|
+| **Password:** `infected` |
+| **Note:** All password-related inquiries will be ignored |
+
+> **Note:** We recommend starting with the parsed documents from the GitHub Release before deciding if you need the complete raw data sets from MEGA.
+
 ## About the Artifacts
 The artifacts in this repository have been pre-parsed and organized for easy access. They represent simulated intrusion scenarios that we use to evaluate potential analysts' capabilities in:
 - Digital Forensics
@@ -67,8 +91,6 @@ The artifacts in this repository have been pre-parsed and organized for easy acc
 
 These simulated cases are designed to provide a controlled environment for testing and demonstrating analytical skills without exposing sensitive real-world data. Whether you're an aspiring analyst, a student, or a professional looking to enhance your skills, these artifacts provide a valuable opportunity to practice and learn in a safe, controlled environment.
 
----
-
 ## ⚠️ Important Safety Notice
 
 > **Warning:** While these artifacts are from simulated intrusions, they should be treated and analyzed with the same precautions as real malicious artifacts:
@@ -77,8 +99,6 @@ These simulated cases are designed to provide a controlled environment for testi
 > - Use dedicated analysis VMs or sandboxed environments
 > - Treat all artifacts as potentially malicious, even though they are from simulated scenarios
 > - Follow proper DFIR safety protocols and best practices when handling the artifacts
-
----
 
 ## 📜 License
 
