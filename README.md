@@ -14,7 +14,7 @@ This repository serves as a platform for sharing simulated intrusion artifacts u
 - Enable self-paced learning and skill development in a controlled environment
 
 ## Application Process
-When a JotForm link is present in the repository, it indicates that we are actively seeking analyst candidates for a specific case.
+When a position has a green status indicator (🟢) and an active JotForm link, it indicates that we are actively seeking analyst candidates for that specific case.
 
 ---
 
