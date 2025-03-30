@@ -56,8 +56,8 @@ The repository provides two ways to access the artifacts:
    - Windows Event Logs from all affected hosts in JSON format (exported from Elastic and ready for re-import)
 
 2. **Complete Dataset**: For analysts who wish to work with all available data, we provide access through our MEGA repository.
-   +Full PCAP
-   +Memory Dumps
+   + Full PCAP
+   + Memory Dumps
 
 | Simulated Case | Complete Dataset (MEGA) |
 |----------------|-----------|
