@@ -50,15 +50,9 @@ You can find all available cases in the [Releases](../../releases/tag/case-1) se
 ## Accessing Artifacts
 The repository provides two ways to access the artifacts:
 
-1. **Parsed Documents**: Pre-processed artifacts are available in the [GitHub Releases](../../releases) section of this repository. These include:
-   - Parsed Kape analysis logs
-   - Kape system logs in CSV format
-   - Windows Event Logs from all affected hosts in JSON format (exported from Elastic and ready for re-import)
+1. **Parsed Documents**: Pre-processed artifacts are available in the [GitHub Releases](../../releases) section of this repository.
 
-2. **Complete Dataset**: For analysts who wish to work with all available data, we provide access through our MEGA repository. This includes all the above plus:
-   + Full PCAP
-   + Memory Dumps
-   + Files
+2. **Complete Dataset**: For analysts who wish to work with all available data, we provide access through our MEGA repository.
 
 | Simulated Case | Complete Dataset (MEGA) |
 |----------------|-----------|
