@@ -54,7 +54,7 @@ You can find all available cases in the [Releases](../../releases/tag/case-1) se
 The repository provides two ways to access the artifacts:
 
 1. **Parsed Documents (Recommended Start)**: Pre-processed artifacts are available in the [GitHub Releases](../../releases) section of this repository. These include:
-   - Parsed Kape sandbox analysis logs
+   - Parsed Kape analysis logs
    - Kape system logs in CSV format
    - Windows Event Logs from all affected hosts in JSON format (exported from Elastic and ready for re-import)
 
