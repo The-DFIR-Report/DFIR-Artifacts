@@ -58,6 +58,7 @@ The repository provides two ways to access the artifacts:
 2. **Complete Dataset**: For analysts who wish to work with all available data, we provide access through our MEGA repository. This includes all the above plus:
    + Full PCAP
    + Memory Dumps
+   + Files
 
 | Simulated Case | Complete Dataset (MEGA) |
 |----------------|-----------|
