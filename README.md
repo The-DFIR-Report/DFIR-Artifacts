@@ -73,7 +73,7 @@ The repository provides two ways to access the artifacts:
 | 📁 Files | - | Relevant malicious files |
 | 🌐 Network | - | Network captures and sensor data |
 
-> **Elastic Import Note:** The Windows Event Logs in the GitHub Release are provided in JSON format as exported directly from our Elastic instance. This makes it easy to import them back into your own Elastic deployment for analysis using the same tools and visualizations you're familiar with.
+> **Elastic Import Note:** The Windows Event Logs in the GitHub Release are provided in JSON format. This makes it easy to import them back into your own Elastic deployment for analysis using the same tools and visualizations you're familiar with.
 
 | ⚠️ Password for All Compressed Files |
 |:-----------------------------------:|
