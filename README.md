@@ -33,14 +33,6 @@ We are looking for passionate individuals who can:
 
 ---
 
-## Repository Organization
-The artifacts for each simulated intrusion case are distributed through GitHub Releases. Each release contains:
-- A set of parsed logs and artifacts ready for analysis
-- Detailed release notes describing the included files
-- Version information and any relevant updates
-
-You can find all available cases in the [Releases](../../releases/tag/case-1) section of this repository.
-
 ## Accessing Artifacts
 The repository provides two ways to access the artifacts:
 
