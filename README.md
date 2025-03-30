@@ -40,13 +40,13 @@ The repository provides two ways to access the artifacts:
 
 2. **Complete Dataset**: For analysts who wish to work with all available data, we provide access through our MEGA repository.
 
-| Simulated Case | Complete Dataset (MEGA) | Alternative (Google Drive) |
+| Simulated Case | Complete Dataset (Google Drive) | Alternative (Mega) |
 |----------------|------------------------|---------------------------|
-| Simulated-Case-1 | [Download (MEGA)](https://mega.nz/file/IJhl0QgD#uQwoeFjIiLHwL16AS_fxPCX3XZKN8oTso6qiH_K307M) | [Alternative Download](https://drive.google.com/file/d/1tpIUu4_uVQ2W_vnzzJjA3aLUhlQpS75k/view?usp=sharing) |
+| Simulated-Case-1 | [Download (Gdrive)](https://drive.google.com/file/d/1tpIUu4_uVQ2W_vnzzJjA3aLUhlQpS75k/view?usp=sharing) | [Download (MEGA)](https://mega.nz/file/IJhl0QgD#uQwoeFjIiLHwL16AS_fxPCX3XZKN8oTso6qiH_K307M)
 
 ### Available Artifacts
 
-| Category | GitHub Release Contains | Complete Dataset (MEGA) Contains |
+| Category | GitHub Release Contains | Complete Dataset Contains |
 |----------|-------------|-------------|
 | 🗂️ Logs | • Parsed Kape sandbox analysis logs<br>• Kape system logs (CSV format)<br>• Windows Event Logs (Elastic export in JSON format) from all affected hosts - ready for Elastic import | All GitHub Release logs plus:<br>• Raw system logs<br>• Additional parsed logs<br>• Complete log datasets |
 | 💾 Memory | - | Memory dumps from affected systems |
