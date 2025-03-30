@@ -55,7 +55,9 @@ The repository provides two ways to access the artifacts:
    - Kape system logs in CSV format
    - Windows Event Logs from all affected hosts in JSON format (exported from Elastic and ready for re-import)
 
-2. **Complete Dataset**: For analysts who wish to work with all available data, including raw logs and additional parsed artifacts, we provide access through our MEGA repository. This includes everything in the parsed documents plus additional raw and parsed logs.
+2. **Complete Dataset**: For analysts who wish to work with all available data, we provide access through our MEGA repository.
+   +Full PCAP
+   +Memory Dumps
 
 | Simulated Case | Complete Dataset (MEGA) |
 |----------------|-----------|
