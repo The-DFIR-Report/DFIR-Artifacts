@@ -60,9 +60,9 @@ The repository provides two ways to access the artifacts:
 
 2. **Complete Dataset**: For analysts who wish to work with all available data, including raw logs and additional parsed artifacts, we provide access through our MEGA repository. This includes everything in the parsed documents plus additional raw and parsed logs.
 
-| Simulated Case | Complete Dataset (MEGA) |
-|----------------|-----------|
-| Simulated-Case-1 | [Download](https://mega.nz/file/IJhl0QgD#uQwoeFjIiLHwL16AS_fxPCX3XZKN8oTso6qiH_K307M) |
+| Simulated Case | Complete Dataset (MEGA) | Alternative (Google Drive) |
+|----------------|------------------------|---------------------------|
+| Simulated-Case-1 | [Download (MEGA)](https://mega.nz/file/IJhl0QgD#uQwoeFjIiLHwL16AS_fxPCX3XZKN8oTso6qiH_K307M) | [Alternative Download](https://drive.google.com/file/d/1tpIUu4_uVQ2W_vnzzJjA3aLUhlQpS75k/view?usp=sharing) |
 
 ### Available Artifacts
 
