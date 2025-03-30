@@ -7,12 +7,6 @@
 ## Overview
 This repository serves as a platform for sharing simulated intrusion artifacts used in our analyst recruitment process. Unlike real-world intrusions that we analyze on a daily basis at the DFIR Report, these artifacts are specifically created for training and evaluation purposes.
 
-### Repository Goals
-- Provide the DFIR community with a glimpse into the types of artifacts we collect and analyze in real-world intrusions
-- Offer a free resource for individuals to develop and enhance their digital forensics and incident response skills
-- Give back to the community by sharing knowledge and practical examples
-- Enable self-paced learning and skill development in a controlled environment
-
 ## Application Process
 When a position has a green status indicator (🟢) and an active JotForm link, it indicates that we are actively seeking analyst candidates.
 
@@ -29,7 +23,7 @@ When a position has a green status indicator (🟢) and an active JotForm link, 
 | **Deadline** | Submissions close April 20, 2025 at 23:59 UTC |
 
 ### Requirements
-We are looking for talented individuals who can:
+We are looking for passionate individuals who can:
 - Analyze the provided artifacts thoroughly
 - Submit a detailed report following our analysis style
 - Demonstrate strong analytical and technical writing skills
@@ -73,15 +67,6 @@ The repository provides two ways to access the artifacts:
 |:-----------------------------------:|
 | **Password:** `infected` |
 | **Note:** All password-related inquiries will be ignored |
-
-## About the Artifacts
-The artifacts in this repository have been pre-parsed and organized for easy access. They represent simulated intrusion scenarios that we use to evaluate potential analysts' capabilities in:
-- Digital Forensics
-- Incident Response
-- Artifact Analysis
-- Evidence Processing
-
-These simulated cases are designed to provide a controlled environment for testing and demonstrating analytical skills without exposing sensitive real-world data. Whether you're an aspiring analyst, a student, or a professional looking to enhance your skills, these artifacts provide a valuable opportunity to practice and learn in a safe, controlled environment.
 
 ## ⚠️ Important Safety Notice
 
