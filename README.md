@@ -80,8 +80,6 @@ The repository provides two ways to access the artifacts:
 | **Password:** `infected` |
 | **Note:** All password-related inquiries will be ignored |
 
-> **Note:** We recommend starting with the parsed documents from the GitHub Release before deciding if you need the complete raw data sets from MEGA.
-
 ## About the Artifacts
 The artifacts in this repository have been pre-parsed and organized for easy access. They represent simulated intrusion scenarios that we use to evaluate potential analysts' capabilities in:
 - Digital Forensics
