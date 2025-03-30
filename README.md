@@ -28,9 +28,6 @@ When a position has a green status indicator (🟢) and an active JotForm link, 
 | **Apply** | [Submit Your Analysis](https://form.jotform.com/250847594571266) |
 | **Deadline** | Submissions close April 20, 2025 at 23:59 UTC |
 
-
-> **Note:** When we are accepting applications, this section will be updated with a green status indicator (🟢) and an active application link.
-
 ### Requirements
 We are looking for talented individuals who can:
 - Analyze the provided artifacts thoroughly
