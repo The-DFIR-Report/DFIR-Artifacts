@@ -64,11 +64,11 @@
 
 ### Timeline
 
-(Overview graphic covering the timeline of events during the intrusion. We utilize [Xmind](https://xmind.app/download/), which can be used for free for this.)
+(Overview graphic covering the timeline of events during the intrusion. We utilize [Xmind](https://xmind.app/download/), which can be used for free for this. [Graphic Template](graphics/Timeline.xmind))
 
 ### Diamond Model
 
-(Graphic displaying intrusion information using the )
+(Graphic displaying intrusion information using the [Diamond model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf). [Graphic Template](graphics/DiamondModel.xmind))
 
 ### Indicators
 **Atomic**
@@ -96,4 +96,4 @@
  
 ### MITRE ATT&CK
 
-(List of MITRE ATT&CK T-codes observed in the intrusion. )
+(List of MITRE ATT&CK T-codes observed in the intrusion. [Graphic Template](graphics/MITRE.xmind) )
