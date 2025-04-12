@@ -2,13 +2,29 @@
   <img src="https://thedfirreport.com/wp-content/uploads/2020/04/cropped-dfir-v1-w.png" width="200" alt="DFIR Report Logo">
 </div>
 
-# DFIR Training Artifacts
+### Position Details
+Passionate about Digital Forensics and Incident Response? Want to share your expertise with the security community while collaborating with talented analysts worldwide?
 
-## Overview
-This repository serves as a platform for sharing simulated intrusion artifacts used in our analyst recruitment process. Unlike real-world intrusions that we analyze on a daily basis at the DFIR Report, these artifacts are specifically created for training and evaluation purposes.
+We're looking for volunteer analysts to join the team! We dive deep into real-world threats and publish monthly public reports detailing threat actor TTPs and how they achieve their goals.
 
-## Application Process
-When a position has a green status indicator (🟢) and an active JotForm link, it indicates that we are actively seeking analyst candidates.
+As part of the team, you will:
+
+- Analyze intrusion data and contribute to impactful DFIR reports.
+- Help shape how we share findings 📄🎨
+- Collaborate with and learn from amazing analysts across the globe.
+- Access our internal group to ask questions, share insights, and improve processes. 🧠
+- Have the unique opportunity to present our collective findings at security conferences and talks! 🎤
+
+This position is a volunteer role. Successful candidates may be offered opportunities for paid work on an ad hoc basis, depending on team needs and project availability.
+
+---
+
+### Requirements
+
+- Analyze the provided artifacts thoroughly
+- Submit a detailed report following our analysis style
+- Demonstrate strong analytical and technical writing skills
+- Show potential for growth within our team
 
 ---
 
@@ -21,17 +37,6 @@ When a position has a green status indicator (🟢) and an active JotForm link, 
 | **Status** | 🟢 Currently Open |
 | **Apply** | [Submit Your Analysis](https://form.jotform.com/250847594571266) |
 | **Deadline** | Submissions close April 20, 2025 at 23:59 UTC |
-
-### Requirements
-We are looking for passionate individuals who can:
-- Analyze the provided artifacts thoroughly
-- Submit a detailed report following our analysis style
-- Demonstrate strong analytical and technical writing skills
-- Show potential for growth within our team
-
-> **Position Details:** This position starts as a volunteer role. Successful candidates may be offered opportunities for paid work on an ad hoc basis, depending on team needs and project availability. The transition to paid work is based on performance, reliability, and the specific needs of our ongoing investigations.
-
----
 
 ## Accessing Artifacts
 The repository provides two ways to access the artifacts:
