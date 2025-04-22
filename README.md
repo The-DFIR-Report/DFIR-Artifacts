@@ -28,15 +28,15 @@ This position is a volunteer role. Successful candidates may be offered opportun
 
 ---
 
-### Current Open Position 🟢
+### Current Open Position 🔴
 
 | | |
 |:---:|:---|
 | **Case** | Simulated-Case-1 |
 | **Position** | Volunteer Analyst with Opportunities for Ad Hoc Paid Work |
-| **Status** | 🟢 Currently Open |
-| **Apply** | [Submit Your Analysis](https://form.jotform.com/250847594571266) |
-| **Deadline** | Submissions close April 20, 2025 at 23:59 UTC |
+| **Status** | 🔴 Currently Closed |
+| **Apply** | - |
+| **Deadline** | - |
 
 ## Accessing Artifacts
 The repository provides two ways to access the artifacts:
